@@ -1,16 +1,27 @@
-## Hi there 👋
+## Serdar Ulutas here
 
-<!--
-**ulut0002/ulut0002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a junior web/mobile app developer passionate about exploring new ways to use technology to achieve goals. I love working on collaborative projects and helping others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- JavaScript
+- React
+- Next.js
+- Node.js
+- Tailwind CSS
+
+## Projects
+
+### [Service-Exercise](https://github.com/ulut0002/Service-Exercise)
+
+A project focused on demonstrating service-oriented architecture.
+
+### [MAD9135-Assignment-1](https://github.com/ulut0002/MAD9135-Assignment-1)
+
+An assignment for the Mobile Application Design and Development program.
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/serdarulutas/)
