@@ -16,16 +16,17 @@ I am particularly drawn to opportunities that involve developing and maintaining
 
 - [LinkedIn](https://www.linkedin.com/in/serdarulutas/)
 - [Medium](https://medium.com/@serdar.ulutas/)
+- [Homepage - serdar.ca](http://serdar.ca)
 
-## Skills
+## Currently Working On:
 
-- JavaScript
-- React
-- Next.js
-- Node.js
-- Tailwind CSS
+- A Next.js project for a small sized CPA
 
-## Projects
+## School Projects / Assignments
+
+### [Doors Open Ottawa](https://github.com/ulut0002/ulut0002-mad9137-final-project)
+
+An iOS application displaying attractions of Open Doors Ottawa public event.
 
 ### [Service-Exercise](https://github.com/ulut0002/Service-Exercise)
 
