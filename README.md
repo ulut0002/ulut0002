@@ -24,6 +24,8 @@ I am particularly attracted to opportunities that involve developing and maintai
 
 ## School Projects / Assignments
 
+Below is a list of applications that I have worked on during my studies in the Mobile Application Design and Development program at Algonquin College.
+
 ### [iOS Assignment - 1](https://github.com/ulut0002/ulut0002-mad9137-assignment-1)
 
 - A simple class assignment exploring the capabilities of SwiftUI with responsive design.
