@@ -2,15 +2,9 @@
 
 ## About me
 
-With a strong interest in web and mobile application development, I am eager to contribute to innovative projects and work with dynamic teams.
-
 I recently graduated from Algonquin College's Mobile Application Design and Development program, where I acquired both technical and design skills. My education focused on user-centered design and a variety of technologies.
 
 Currently, I am transitioning into mobile app and full-stack development roles as a junior developer, leveraging my solid background in ERP and B2C/B2B experience. Throughout my professional journey, I have collaborated with different departments on various projects, which has enhanced my ability to adapt and contribute to different aspects of development.
-
-As a professional, I am accountable, committed to my tasks, and driven to achieve optimal results. I value teamwork and strive to support my colleagues and ensure a collaborative and productive work environment. My goal is to join a team where technology is used to achieve goals and make a significant contribution to the company's success.
-
-I am particularly attracted to opportunities that involve developing and maintaining efficient and scalable web/mobile applications. I thrive in environments where cross-functional teams collaborate to define, design, and deliver new features, troubleshoot software defects, and optimize application performance for maximum speed and scalability.
 
 ## Links
 
