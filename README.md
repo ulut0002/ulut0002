@@ -4,7 +4,7 @@
 
 I recently graduated from Algonquin College's Mobile Application Design and Development program, where I acquired both technical and design skills. My education focused on user-centered design and a variety of technologies.
 
-Currently, I am transitioning into mobile app and full-stack development roles as a junior developer, leveraging my solid background in ERP and B2C/B2B experience. Throughout my professional journey, I have collaborated with different departments on various projects, which has enhanced my ability to adapt and contribute to different aspects of development.
+Overall, I am mobile app / full-stack / Dynamics NAV developer.
 
 ## Links
 
