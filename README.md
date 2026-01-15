@@ -1,20 +1,13 @@
 # Serdar Ulutas
 
-## About me
-
-I recently graduated from Algonquin College's Mobile Application Design and Development program, where I acquired both technical and design skills. My education focused on user-centered design and a variety of technologies.
-
-Overall, I am mobile app / full-stack / Dynamics NAV developer.
-
 ## Links
 
 - [LinkedIn](https://www.linkedin.com/in/serdarulutas/)
 - [Medium](https://medium.com/@serdar.ulutas/)
 - [Homepage - serdar.ca](http://serdar.ca)
 
-## Currently Working On:
 
-- A Next.js project for a small CPA (Certified Professional Accounting) firm.
+
 
 ## School Projects / Assignments
 
